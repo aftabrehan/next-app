@@ -1,0 +1,38 @@
+{
+  "name": "calendarar",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@svgr/webpack": "^6.3.1",
+    "axios": "^0.26.1",
+    "clsx": "^1.2.1",
+    "next": "12",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "@types/react": "^18.0.17",
+    "eslint": "8.12.0",
+    "eslint-config-next": "12.1.4",
+    "sass": "^1.49.11"
+  },
+  "description": "Calendarar is a simple calendar web application.",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aftabrehan/calendarar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aftabrehan/calendarar/issues"
+  },
+  "homepage": "https://github.com/aftabrehan/calendarar#readme"
+}
