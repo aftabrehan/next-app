@@ -1,5 +1,5 @@
 {
-  "name": "calendarar",
+  "name": "next-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -23,16 +23,16 @@
     "eslint-config-next": "12.1.4",
     "sass": "^1.49.11"
   },
-  "description": "Calendarar is a simple calendar web application.",
+  "description": "A Simple Next App.",
   "main": "next.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aftabrehan/calendarar.git"
+    "url": "git+https://github.com/aftabrehan/next-app.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aftabrehan/calendarar/issues"
+    "url": "https://github.com/aftabrehan/next-app/issues"
   },
-  "homepage": "https://github.com/aftabrehan/calendarar#readme"
+  "homepage": "https://github.com/aftabrehan/next-app#readme"
 }
